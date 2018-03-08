@@ -65,7 +65,7 @@ public class Trabalho1 {
 						+ " ");
 
 		/*
-		 * 4) João, qual eh o número do compartimento que MAIS tem teclados ?
+		 * 4) João, qual eh o número do compartimento que MAIS tem teclados
 		 */
 
 		double maiorCompartimento = 0;
